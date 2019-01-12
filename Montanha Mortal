@@ -1,0 +1,18 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",Murder Mountain
+http://acervoiptv.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",1x1-DUB Montanha Mortal
+http://boxplay.net/murdermontain/s1/e1.mp4?http://acervoiptv.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",1x2-DUB Montanha Mortal
+http://boxplay.net/murdermontain/s1/e2.mp4?http://acervoiptv.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",1x3-DUB Montanha Mortal
+http://boxplay.net/murdermontain/s1/e3.mp4?http://acervoiptv.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",1x4-DUB Montanha Mortal
+http://boxplay.net/murdermontain/s1/e4.mp4?http://acervoiptv.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",1x5-DUB Montanha Mortal
+http://boxplay.net/murdermontain/s1/e5.mp4?http://acervoiptv.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3zZi1D.png" group-title="Montanha Mortal",1x6-DUB Montanha Mortal
+http://boxplay.net/murdermontain/s1/e6.mp4?http://acervoiptv.blogspot.com
