@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziwcoM6.jpg" group-title="Fam DUB-HD",1x1-DUB Fam
+https://fs2.meudrive.co/rb/e1.mp4?download_token=905da57258862b2d856cfeb69e6fac5593c8198272040b57ef17a3bdc737e34a
