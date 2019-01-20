@@ -1,0 +1,20 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x1 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O1/o1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x2 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O1/o2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x3 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O1/o3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x4 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O1/o4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x5 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O8/o5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x6 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O8/o6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x7 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O8/o7.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aSRDSy.jpg" group-title="O Mecanismo",1x8 O Mecanismo
+https://archive.org/download/mepsejorte_ziyap_O8/o8.mp4
