@@ -2,8 +2,7 @@
 #PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ziwcoM6.jpg" group-title="Fam DUB-HD",1x1-DUB Fam
-https://fs2.meudrive.co/rb/e1.mp4?download_token=905da57258862b2d856cfeb69e6fac5593c8198272040b57ef17a3bdc737e34a
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ziwcoM6.jpg" group-title="Fam DUB-SD",1x1-DUB Fam
-http://www.mitoseries.com/videozin/video-play.mp4/?contentId=SW9tVUNEL0RxcDRlcnlSa3pCM1pwZWtjL3lPTXZRUGk3QU0xMXZsbmhDaz0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziwcoM6.jpg" group-title="Fam LEG-SD",1x1-LEG Fam
+http://animesonlinebr.com.br/video-player?token=AD6v5dwPua1qCAoqNMe7kFw9W4wkirpjr7ujD2_03lIDQbKs9R2mzvd2obaOBGZgMfMvy4qa6FxVcLpoQjGu0o_SRCYdwQ6-_RwcTyJAQG_7w4-6SnNF1Ivbas9PiqkzlyDlaXXRuR0?.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziwcoM6.jpg" group-title="Fam DUB-LEG",1x2-LEG Fam
+http://animesonlinebr.com.br/video-player?token=AD6v5dwiNhjq1YjhB-g6WlDEEnHjw9oojZZXWII5W_o41f-IM7Xx3WwXi2BTeC3QryGG2PKrfWqXJBWvCdEnXPrEiLsyG-zT06Z3vwqxa8R_APHSq2epHjgzctonFr0IgDce0pdHVAym?.mp4
