@@ -1,0 +1,73 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x1-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x2-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x3-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x4-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x5-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x6-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x7-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e7.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x8-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e8.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x9-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e9.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x10-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e10.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x11-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e11.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x12-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e12.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x13-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e13.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x14-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e14.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x15-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e15.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x16-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e16.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x17-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e17.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x18-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e18.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x19-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e19.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x20-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e20.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x21-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e21.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x22-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e22.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",1x23-DUB Arqueiro
+https://boxplay.net/arrow/s1/dub/e23.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x1-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x2-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x3-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x4-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x5-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x6-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x7-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e7.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x8-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e8.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x9-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e9.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x10-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e10.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGsJ6Xz.jpg" group-title="Arrow DUB",7x11-DUB Arqueiro
+https://boxplay.net/arrow/s7/dub/e11.mp4
