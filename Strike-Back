@@ -1,0 +1,16 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0x1YvE.jpg" group-title="Strike Back DUB",1x1-DUB Strike Back
+https://boxplay.net/strikeback/s1/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0x1YvE.jpg" group-title="Strike Back DUB",1x2-DUB Strike Back
+https://boxplay.net/strikeback/s1/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0x1YvE.jpg" group-title="Strike Back DUB",1x3-DUB Strike Back
+https://boxplay.net/strikeback/s1/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0x1YvE.jpg" group-title="Strike Back DUB",1x4-DUB Strike Back
+https://boxplay.net/strikeback/s1/dub/e4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0x1YvE.jpg" group-title="Strike Back DUB",1x5-DUB Strike Back
+https://boxplay.net/strikeback/s1/dub/e5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0x1YvE.jpg" group-title="Strike Back DUB",1x6-DUB Strike Back
+https://boxplay.net/strikeback/s1/dub/e6.mp4
