@@ -1,4 +1,6 @@
-
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JGGwGk9.jpg" group-title="High Maintenance LEG",1x1-LEG High Maintenance
 https://boxplay.net/highmaintenance/s1/leg/e1.mp4
