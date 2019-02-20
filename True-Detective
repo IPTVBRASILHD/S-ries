@@ -1,0 +1,20 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x1-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x2-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x3-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x4-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x5-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x6-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x7-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e7.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4tGhqx.jpg" group-title="True Detective",1x8(SF)-DUB True Detective
+https://boxplay.net/truedetective/s1/dub/e8.mp4
