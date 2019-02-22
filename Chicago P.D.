@@ -1,0 +1,34 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x1-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x2-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x3-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x4-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x5-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x6-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x7-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e7.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x8-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e8.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x9-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e9.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x10-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e10.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x11-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e11.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x12-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e12.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x13-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e13.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x14-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e14.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkloKmG.jpg" group-title="Chicago P.D. (DUB-SD)",1x15-DUB Chicago P.D.
+https://boxplay.net/chicagopd/s1/dub/e15.mp4
