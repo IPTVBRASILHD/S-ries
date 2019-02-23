@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSMGtJw.jpg" group-title="Terrores Urbanos (DUB-SD)",1x1-DUB Terrores Urbanos
+https://boxplay.net/terroresurbanos/s1/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSMGtJw.jpg" group-title="Terrores Urbanos (DUB-SD)",1x2-DUB Terrores Urbanos
+https://boxplay.net/terroresurbanos/s1/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSMGtJw.jpg" group-title="Terrores Urbanos (DUB-SD)",1x3-DUB Terrores Urbanos
+https://boxplay.net/terroresurbanos/s1/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSMGtJw.jpg" group-title="Terrores Urbanos (DUB-SD)",1x4-DUB Terrores Urbanos
+https://boxplay.net/terroresurbanos/s1/dub/e4.mp4
