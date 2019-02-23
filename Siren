@@ -1,0 +1,24 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x1-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x2-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x3-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x4-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x5-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e5.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x6-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e6.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x7-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e7.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x8-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e8.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x9-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e9.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaDXCSe.jpg" group-title="Siren (DUB-SD)",1x10-DUB Siren
+https://www.boxfilmesplay.one/siren/s1/dub/e10.mp4
