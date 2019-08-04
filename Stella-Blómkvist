@@ -2,18 +2,18 @@
 #PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x1-LEG Stella Blómkvist
-https://lh3.googleusercontent.com/oaMlBrVulU-zeYdSbV4mopI-CphlrY1Jeu_UD7OSPe8OEf8n2zBbb9HKUvplOAAEDla1XeREkt87VynmNxPsn961Izc8yEPjyroASXmFkAryO0GYWPT_42awPKrf2YEDjVg0MziBJu8=m18?.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x2-LEG Stella Blómkvist
-https://lh3.googleusercontent.com/M8WTu6u6BZqPzpyQ4Oulk1XQFPVGtotEgupotiDvIHZ-gTrkF3tDrLRFTxKH4nRrmyyjpOgeENYObdxwe-FKQDY3pFinasNL8sGLSzpnBXEmzpcZrwOg1HlZZELZsrHP4QVA1cdepWQ=m18?.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x3-LEG Stella Blómkvist
-https://lh3.googleusercontent.com/QO320Z2eA6GpC3lnok2az5gPWpA8-VIPQpOt2hFU9TzWbUElMy6MwStUaFVfSKJwmVPxvVExdfQnw1FEHebbhkrWqVHo-QKlJrTJ7L3xZ5k_NVXEeeM5Vl6i9J2RjgMJrKWgO5XqltQ=m18?.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x4-LEG Stella Blómkvist
-https://lh3.googleusercontent.com/4vOS377VO-suGeMas4j3YKmRNDiyCb-Wwfy0gxvkD2RW_EgDD7zjRk0CGqVb9CV_9VTtl7J0OEo2XqY7JZANsAT4ShZ0ySoHnP9A_5BzwXhXeJIAt4K0P-ieCUYr7rldBfLYmbMwos0=m18?.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x5-LEG Stella Blómkvist
-https://lh3.googleusercontent.com/wknzhOf7bbZQ04iyjr9nmjAKk5NEt1qoMJ5omQUYAsuNJJE2sbPDVA-zaVEErV1qL_FGPUT5wMmbGE3ejK7vlJH7dQPwsyhyig8Ais1tM-Mp-AtPIbRTiGKzWAgDBkaQj59AoYWE970=m18?.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x6(SF)-LEG Stella Blómkvist
-https://lh3.googleusercontent.com/uzTgr_cgvSyYSRoQ4KdheyAmp2Y9dnGla-SmMHosgE8Ebscwz9Mpx9oXAAPQJS6e5v62aZVH6V6zHcYbk10aOAQlRT6mQikf_G1SpUTdDQt0UMyOSr9Bk601wzyHpFypjqH923jpZsQ=m18?.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-SD)",1x1-LEG Stella Blómkvist
+https://assistonlineapi.online/make/check/?list=188fb3c82f1de144
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-SD)",1x2-LEG Stella Blómkvist
+https://assistonlineapi.online/make/check/?list=46936373954413d3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-SD)",1x3-LEG Stella Blómkvist
+https://assistonlineapi.online/make/check/?list=6751f007e19c469d
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-SD)",1x4-LEG Stella Blómkvist
+https://assistonlineapi.online/make/check/?list=692d0d0c03686949
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-SD)",1x5-LEG Stella Blómkvist
+https://assistonlineapi.online/make/check/?list=fed27df98655353b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-SD)",1x6(SF)-LEG Stella Blómkvist
+https://assistonlineapi.online/make/check/?list=a00b6ec5decdd9b5
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s2GZ8ktoKfaZlfCKONS418X68MQ.jpg" group-title="Stella Blómkvist (LEG-HD)",1x1-LEG Stella Blómkvist
 https://lh3.googleusercontent.com/oaMlBrVulU-zeYdSbV4mopI-CphlrY1Jeu_UD7OSPe8OEf8n2zBbb9HKUvplOAAEDla1XeREkt87VynmNxPsn961Izc8yEPjyroASXmFkAryO0GYWPT_42awPKrf2YEDjVg0MziBJu8=m22?.mp4
