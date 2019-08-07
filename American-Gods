@@ -1,6 +1,5 @@
-#EXTM3U
-#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+#EXTM3U 
+#EXTINF:-1  group-title="siptvbr.blogspot.com/p/series-para-o-smart-iptv.html",http://siptvbr.blogspot.com/p/series-para-o-smart-iptv.html
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/m6qf6lq3yARgbZwspvDLbUFtASh.jpg" group-title="American Gods DUB-HD",1x1-DUB American Gods
 https://lh3.googleusercontent.com/CKysvCBvIw4DS47dEaA1frg8DcmbWGLKVLB1i9Nsme6Ar6__7xEvhId0wz8h4IbEspUxj8JILp5bHYuji-LsoS_w7rR82__qzmTmqHIrO5ctPbSnNqa1XpfldCVi6UKWz-T0KA45Yuo=m22?.mp4
