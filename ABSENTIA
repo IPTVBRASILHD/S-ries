@@ -1,6 +1,5 @@
-#EXTM3U
-#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+#EXTM3U 
+#EXTINF:-1  group-title="http://siptvbr.blogspot.com/p/series-para-o-smart-iptv.html",http://siptvbr.blogspot.com/p/series-para-o-smart-iptv.html
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fy6SG9i.jpg" group-title="ABSENTIA",ABSENTIA
 http://0.0.0.0
