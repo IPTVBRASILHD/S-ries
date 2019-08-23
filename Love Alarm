@@ -1,0 +1,36 @@
+#EXTM3U 
+#EXTINF:-1  group-title="siptvbr.blogspot.com/p/series-para-o-smart-iptv.html",http://siptvbr.blogspot.com/p/series-para-o-smart-iptv.html
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x1-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_95128843763f44d28e43f270d910f300/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x2-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_d4bca45ba4134f64a68f78f9f48712a5/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x3-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_ef8cab59400641d08148dd1bb8ac4034/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x4-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_2a7b761edf624d8d8f27f45905175669/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x5-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_323e59815a364ecda4e130c70b04010b/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x6-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_8485c77c0db6426196d0b8c31c8a16a3/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x7-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_a4d7da67d30543c6b59c1e88aca03f0e/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm DUB",1x8(SF)-DUB Love Alarm
+https://video.wixstatic.com/video/d4e463_cd956c81efd84c74918a534297be2650/480p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x1-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_b01cc961d3f24b21b662418106b4940b/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x2-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_cfee2d93f1074d5bacf23feda67b52a0/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x3-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_d6104802c1c44838a52200b648bf7d1d/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x4-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_aa7ccbb77b204428b18b1aa4847a144f/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x5-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_b930e14e6de243e49906e5f49fa36a1b/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x6-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_b7cdefa4eb7844d091ed2c3f933761e2/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x7-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_8aaefb19326f4d99a830a0e4cde42221/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxhZRqS.jpg" group-title="Love Alarm LEG",1x8-LEG Love Alarm
+https://video.wixstatic.com/video/d4e463_a89d19baa0694c32afcb3abbad588032/480p/mp4/file.mp4
