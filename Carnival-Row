@@ -1,0 +1,19 @@
+#EXTM3U 
+#EXTINF:-1  group-title="siptvbr.blogspot.com/p/series-para-o-smart-iptv.html",http://siptvbr.blogspot.com/p/series-para-o-smart-iptv.html
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x1-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_282857b09edd4379b311ad5a897435f3/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x2-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_82452739ed32429da8647885e1977f3d/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x3-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_7e7bf73ede234cfb9a2db8c93eb7132c/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x4-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_36a814c3d3ce4c22b3c704d7ee7b8bbe/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x5-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_1b1c58f94d164712994f320640408e0f/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x6-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_e2f36ad603004083924f0706ec9dafc8/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x7-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_05ba61311d0a400294c31bb6428ae502/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3d10pI0.jpg" group-title="Carnival Row DUB-HD",1x8(SF)-DUB Carnival Row
+https://video.wixstatic.com/video/3b6a74_b2a75aaa173040a0a03caf4df5f42688/480p/mp4/file.mp4
